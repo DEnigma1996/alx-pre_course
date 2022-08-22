@@ -1,3 +1,3 @@
 My first readme
-My seond Readme
+My second Readme
 Updated: i mean it's up to date
